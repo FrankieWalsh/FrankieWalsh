@@ -60,8 +60,3 @@ Currently working at **Plant Wisdom AI**, an innovative AI startup focused on re
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrankieWalsh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankie.walsh4@outlook.com)
 
-## 📊 GitHub Stats
-
-![Frankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankieWalsh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankieWalsh&layout=compact&theme=tokyonight)
